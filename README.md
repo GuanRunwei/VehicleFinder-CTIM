@@ -2,6 +2,8 @@
 
   Since the whole system would be used for commercial purposes, we only open-source the core module ***CTIM*** (contrastive text-image module).
   
+  <img src="https://github.com/GuanRunwei/VehicleFinder-CTIM/blob/main/CTIM.png" width = "700" height = "360" alt="Entity Types of FindVehicle" align=center />
+  
 ## Requirements:
 > einops==0.4.1
 > gensim==4.1.2
