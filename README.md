@@ -37,4 +37,4 @@
 ## Implementation
 > python train.py
 
-  The code of this project is clear, you could find out the hyperparameters and file paths detailedly.
+  The code of this project is clear, you could find out the hyperparameters and file paths without any difficulty.
