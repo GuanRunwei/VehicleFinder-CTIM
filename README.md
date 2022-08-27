@@ -48,7 +48,7 @@ ____________________________________________________________________________
     
 
 ## Implementation
-> pip install requirements.txt \\
+> pip install requirements.txt 
 > python train.py
   
 
