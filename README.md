@@ -1,4 +1,4 @@
-# ***VehicleFinder-CTIM: a text-image cross-modal vehicle retrieval system***
+# ***VehicleFinder-CTIM: a keyword-based text-image cross-modal vehicle retrieval system***
 
 
   ***VehicleFinder***
