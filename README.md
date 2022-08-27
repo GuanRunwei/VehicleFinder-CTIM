@@ -48,7 +48,8 @@ ____________________________________________________________________________
     
 
 ## Implementation
-> pip install requirements.txt
-  python train.py
+> pip install requirements.txt \\
+> python train.py
+  
 
   The code of this project is clear, you could find out and replace the hyperparameters and file paths without any difficulty.
