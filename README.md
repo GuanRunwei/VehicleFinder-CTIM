@@ -1,16 +1,15 @@
 # ***VehicleFinder-CTIM: a text-image cross-modal vehicle retrieval system***
 
+
+  ***VehicleFinder***
+  
+  <img src="https://github.com/GuanRunwei/VehicleFinder-CTIM/blob/main/VehicleFinder.png" alt="Entity Types of FindVehicle" align=center/>
+
   Since the whole system would be used for commercial purposes, we only open-source the core module ***CTIM*** (contrastive text-image module).
   
   NanoDet: [link](https://github.com/RangiLyu/nanodet) |  Dataset-> UA-DETRAC: [link](https://pan.baidu.com/s/1-r355_V14YaMXwEhmteqRA) password: bygu 
   
   BiLSTM-CRF: [link](https://github.com/jidasheng/bi-lstm-crf) |  Dataset-> FindVehicle: [link](https://github.com/GuanRunwei/FindVehicle)
-  
-____________________________________________________________________________
-
-  ***VehicleFinder***
-  
-  <img src="https://github.com/GuanRunwei/VehicleFinder-CTIM/blob/main/VehicleFinder.png" alt="Entity Types of FindVehicle" align=center/>
   
 ____________________________________________________________________________
 
