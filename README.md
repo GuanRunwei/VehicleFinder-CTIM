@@ -50,6 +50,7 @@ ____________________________________________________________________________
 
 ## Implementation
     conda create -n CTIM
+    conda activate CTIM
     pip install requirements.txt 
     python train.py
   
