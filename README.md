@@ -2,14 +2,9 @@
 
   Since the whole system would be used for commercial purposes, we only open-source the core module ***CTIM*** (contrastive text-image module).
   
-  NanoDet: [link](https://github.com/RangiLyu/nanodet)
+  NanoDet: [link](https://github.com/RangiLyu/nanodet)   Dataset-> UA-DETRAC: [link](https://pan.baidu.com/s/1-r355_V14YaMXwEhmteqRA) password: bygu 
   
-  Dataset-> UA-DETRAC: [link](https://pan.baidu.com/s/1-r355_V14YaMXwEhmteqRA)
-  password: bygu 
-  
-  BiLSTM-CRF: [link](https://github.com/jidasheng/bi-lstm-crf)
-  
-  Dataset-> FindVehicle: [link](https://github.com/GuanRunwei/FindVehicle)
+  BiLSTM-CRF: [link](https://github.com/jidasheng/bi-lstm-crf)   Dataset-> FindVehicle: [link](https://github.com/GuanRunwei/FindVehicle)
 ____________________________________________________________________________
   
   <img src="https://github.com/GuanRunwei/VehicleFinder-CTIM/blob/main/CTIM.png" width=700 height=870 alt="Entity Types of FindVehicle" align=center/>
