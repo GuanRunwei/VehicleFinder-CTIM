@@ -17,6 +17,8 @@ ____________________________________________________________________________
   
   <img src="https://github.com/GuanRunwei/VehicleFinder-CTIM/blob/main/CTIM.png" width=700 height=870 alt="Entity Types of FindVehicle" align=center/>
   
+  <img src="https://github.com/GuanRunwei/VehicleFinder-CTIM/blob/main/VehicleFinder_Inference1.png" width=700 height=870 alt="Entity Types of FindVehicle" align=center/>
+  
 ## Requirements:
 
     einops==0.4.1
