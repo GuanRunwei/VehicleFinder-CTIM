@@ -4,6 +4,8 @@
   ***VehicleFinder***
   
   <img src="https://github.com/GuanRunwei/VehicleFinder-CTIM/blob/main/VehicleFinder.png" alt="Entity Types of FindVehicle" align=center/>
+  
+  <img src="https://github.com/GuanRunwei/VehicleFinder-CTIM/blob/main/VehicleFinder_Inference1.png" alt="Entity Types of FindVehicle" align=center/>
 
   Since the whole system would be used for commercial purposes, we only open-source the core module ***CTIM*** (contrastive text-image module).
   
@@ -16,8 +18,6 @@ ____________________________________________________________________________
   ***CTIM***
   
   <img src="https://github.com/GuanRunwei/VehicleFinder-CTIM/blob/main/CTIM.png" width=700 height=870 alt="Entity Types of FindVehicle" align=center/>
-  
-  <img src="https://github.com/GuanRunwei/VehicleFinder-CTIM/blob/main/VehicleFinder_Inference1.png" width=700 height=870 alt="Entity Types of FindVehicle" align=center/>
   
 ## Requirements:
 
